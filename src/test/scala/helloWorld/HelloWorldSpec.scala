@@ -9,7 +9,7 @@ class HelloWorldSpec extends WordSpec with Matchers {
       "called" in {
         "Hello World" shouldBe "Hello World"
       }
-	}
+    }
   }
 
 }
